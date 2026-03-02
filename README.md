@@ -11,7 +11,7 @@ I'm a **Coder** in process from the best place of the developing, passionate abo
 *⚡ Fun fact:* "When I'm drunk I could speak English better"
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
+  <a href="https://co.linkedin.com/in/daniel-via%C3%B1a-pe%C3%B1a-b73a2922b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
