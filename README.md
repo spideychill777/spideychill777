@@ -9,3 +9,9 @@ I'm a **Coder** in process from the best place of the developing, passionate abo
 *💬 Ask me about:*"I love talking about spiderman movies, personal growth and Social media content"
 
 *⚡ Fun fact:* "When I'm drunk I could speak English better"
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-username/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
