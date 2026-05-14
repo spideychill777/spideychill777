@@ -2,7 +2,7 @@
 
 I'm a **Coder** in process from the best place of the developing, passionate about building things that solve real-world problems, I'm a person who enjoy learn new things every day and believe that knowledge is power and with a great power comes great responsibility.
 
-*🌱 learning:*"I'm currently diving deep into Python."
+*🌱 learning:*"I'm currently diving deep into Python and Javascript."
 
 *💬 Ask me about:*"I love talking about spiderman movies, personal growth and Social media content"
 
