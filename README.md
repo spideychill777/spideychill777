@@ -6,7 +6,7 @@ I'm a **Coder** in process from the best place of the developing, passionate abo
 
 *💬 Ask me about:*"I love talking about spiderman movies, personal growth and Social media content"
 
-*⚡ Fun fact:* "When I'm drunk I could speak English better"
+*⚡ Fun fact:* "When I'm feeling under pressure I could speak English better"
 
   <h4 align="center">All my socials media ✨</h4>
 
